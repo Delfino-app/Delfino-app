@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-**Delfino-app/Delfino-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am fullstack Developer with:**
+- Backend
+- - PHP
+- - - Laravel
+- - - web Api
+- Frontend
+- - Javascript
+- - - React.js
+- - - Jquery 
+- - CSS
+- - - Bootstrap
+- - - Materialize
+- - HTML5
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working at NovaDev as FullStack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+#### 🌱 I’m currently learning Node.js and React.js...
+#### 👯 I’m currently collaborating in alot projects as freelance
+##### 💬 If You need talk or know more about me, you can find me in
+- - linkedin: https://www.linkedin.com/in/delfino-app/
+
+
