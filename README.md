@@ -32,7 +32,4 @@
   <img src="https://profile-counter.glitch.me/delfino-app/count.svg" />  
 </p>
 
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/delfino-app/delfino-app/output/github-contribution-grid-snake.svg)
 
