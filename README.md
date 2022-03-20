@@ -1,25 +1,38 @@
-### Hi there 👋
+## Hello World! Eu sou Delfino Torres
+<div>
+ <a href="https://www.github.com/delfino-app">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
+</div>
+ 
+## My Skills
+ 
+<div>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+ 
+##
 
-**I am fullstack Developer with:**
-- Backend
-- - PHP
-- - - Laravel
-- - - web Api
-- Frontend
-- - Javascript
-- - - React.js
-- - - Jquery 
-- - CSS
-- - - Bootstrap
-- - - Materialize
-- - HTML5
+<div>
+ <a href="https://api.whatsapp.com/send?phone=+244997896783&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ <a href="https://www.instagram.com/delfino_app"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="delfinoapp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/delfino-app/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-#### 🔭 I’m currently working at Agência Zíriga(Brazil) as FullStack Developer
+## Visitas no pefil - Atividade
 
+<!-- visitors count  -->
 
-#### 🌱 I’m currently learning Node.js and React.js...
-#### 👯 I’m currently collaborating in alot projects as freelance
-##### 💬 If You need talk or know more about me, you can find me in
-- - linkedin: https://www.linkedin.com/in/delfino-app/
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/delfino-app/count.svg" />  
+</p>
 
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/delfino-app/delfino-app/output/github-contribution-grid-snake.svg)
 
