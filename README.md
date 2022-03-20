@@ -14,7 +14,7 @@
 - - - Materialize
 - - HTML5
 
-#### 🔭 I’m currently working at NovaDev as FullStack Developer
+#### 🔭 I’m currently working at Agência Zíriga(Brazil) as FullStack Developer
 
 
 #### 🌱 I’m currently learning Node.js and React.js...
